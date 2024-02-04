@@ -1,0 +1,119 @@
+body {
+    background-color: #e3cfcf;
+}
+
+.hair {
+    position: absolute;
+    width: 700px;
+    height: 700px;
+}
+
+.titre {
+    font-family: 'Oswald', sans-serif;
+    ;
+    font-weight: 400px;
+    line-height: normal;
+    text-align: center;
+    position: absolute;
+    top: 230px;
+    left: 830px;
+    font-size: 40px;
+}
+
+.hashtag {
+    position: absolute;
+    top: 360px;
+    left: 900px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400px;
+    line-height: normal;
+
+
+}
+
+.hours {
+    position: absolute;
+    top: 900px;
+    left: 200px;
+    width: 75%;
+    height: 300px;
+
+
+}
+
+#col {
+    column-count: 2;
+}
+
+.super {
+    position: relative;
+    height: 400px;
+    top: 950px;
+    text-align: center;
+    z-index: 1;
+}
+
+.services {
+    text-align: center;
+    position: absolute;
+    top: 170px;
+    left: 530px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.photos {
+    display: grid;
+    gap: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    position: relative;
+    top: 300px;
+}
+
+.service1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.service2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.service3 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.service4 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.service5 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.button {
+    position: absolute;
+    left: 1000px;
+}
+
+.style {
+    background-color: #e3cfcf;
+    font-family: 'Oswald', sans-serif;
+    width: 200px;
+    border: none;
+    font-size: 20px;
+}
+
+.d-flex {
+    width: 300px;
+    background-color: #e3cfcf;
+    position: absolute;
+    left: 1100px;
+}
+
+.logo {
+    position: relative;
+    top: 40px;
+    left: 500px;
+}
